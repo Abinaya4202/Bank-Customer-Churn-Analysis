@@ -18,7 +18,7 @@ This project performs a full churn analysis using a real-world banking dataset c
 ● Provide recommendations to reduce churn
 
 
-**Tools & Technologies**
+**Tools & Technologies:**
 
 🔹 **SQL (MySQL)**
 
@@ -48,7 +48,7 @@ This project performs a full churn analysis using a real-world banking dataset c
 
 
 
-**Key Findings**
+**Key Findings:**
 
 The analysis of the bank customer dataset reveals several critical patterns that highlight why customers are leaving the bank. The overall churn rate of 20.37% shows that nearly one in five customers has exited, indicating a substantial retention challenge. Inactive customers form a major portion of churn, demonstrating that low engagement directly increases the likelihood of exit. Additionally, customers with only one product show a significantly higher churn rate compared to those holding two products, suggesting that lack of product involvement decreases customer loyalty.
 
@@ -62,7 +62,7 @@ In conclusion, the churn analysis provides a comprehensive understanding of cust
 Overall, the project emphasizes the necessity for the bank to adopt data-driven strategies to reduce churn. With the insights generated through SQL and Power BI, the bank can now focus on targeted customer engagement, improved service delivery, and personalized product offerings. Implementing the recommended strategies will not only help reduce churn but also strengthen long-term customer loyalty and profitability.
 
 
-**SUGGESTIONS**
+**SUGGESTIONS:**
 
 To reduce churn, the bank should focus on increasing customer engagement and strengthening relationships with inactive and single-product customers. Introducing reward programs, personalized recommendations, and product bundles can encourage customers to adopt more banking services, thereby improving their retention. High-value customers, especially those with larger account balances, should be given priority support, relationship managers, and exclusive benefits to encourage loyalty.
 
